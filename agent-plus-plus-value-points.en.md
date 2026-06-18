@@ -11,7 +11,7 @@
 
 **agent+++ is a local-first project-oriented agent workspace that turns fragmented human ideas into executable, verifiable, and reusable project assets through four core modules: Thinker, Reflex Layer, Feedback Bus, and Project Memory.**
 
-It is not an "open-source Codex clone" and it is not a low-code generator. The core idea is to build a reliable human-AI project operating system:
+It is not a clone of an existing coding agent and it is not a low-code generator. The core idea is to build a reliable human-AI project operating system:
 
 ```text
 human: imagination, judgment, acceptance
@@ -158,7 +158,7 @@ Retention waits for project relevance. Hallucination turns long-unclaimed fragme
 
 ## Why This Is Different
 
-普通 agent loop:
+A typical agent loop:
 
 ```text
 model thinks

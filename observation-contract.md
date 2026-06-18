@@ -740,7 +740,7 @@ Observation Contract 下，Thinker 的下一步决策
 
 Observation Contract 是 agent+++ 的观察协议。
 
-它把工具输出从“原始日志”变成“可推理、可审计、可沉淀的观察资产”。它让 Thinker 不再读垃圾，让 Reflex Layer 不越权判断，让 Feedback Bus 不只是压缩器，让 Project Memory 有证据地沉淀项目资产。
+它把工具输出从“原始日志”变成“可推理、可审计、可沉淀的观察资产”。它让 Thinker 不再消耗原始噪声，让 Reflex Layer 不越权判断，让 Feedback Bus 不只是压缩器，让 Project Memory 有证据地沉淀项目资产。
 
 普通 Agent 在问：
 

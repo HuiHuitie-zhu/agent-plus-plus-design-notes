@@ -28,8 +28,8 @@ This mechanism is valuable because it solves four problems that long-running age
 
 1. **Memory pollution**: model thoughts, tool logs, temporary guesses, and user preferences get mixed together.
 2. **Project fragmentation**: cross-project lessons and user cognition are trapped inside individual projects.
-3. **Unbounded accumulation**: global memory grows forever and becomes a context junkyard.
-4. **Creative decay**: memory only serves factual reasoning, making the system increasingly conservative and dull.
+3. **Unbounded accumulation**: global memory grows forever and becomes a noisy context backlog.
+4. **Creative decay**: memory only serves factual reasoning, making the system increasingly conservative and less generative.
 
 The core shift:
 
@@ -374,7 +374,7 @@ naming/writing     allowed in small amounts
 story framing      allowed
 ```
 
-Hallucination is not permission to lie. It is a source of nonlinear creative material.
+Hallucination is not a factual reasoning mode. It is a source of nonlinear creative material.
 
 ---
 

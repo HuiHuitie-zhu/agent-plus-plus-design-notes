@@ -1,6 +1,6 @@
 # agent+++ Public Design Notes / 公开设计笔记
 
-agent+++ is a local-first project-oriented agent operating system. It uses a deep Thinker for project decisions, Flash execution agents for parallel work, Observation Contract for faithful feedback, and global/project memory for long-running continuity.
+agent+++ is a local-first project-oriented agent operating system. It uses a deep Thinker for project-level decisions, Flash execution agents for parallel work, Observation Contract for faithful feedback, and global/project memory for long-running continuity.
 
 agent+++ 是一个本地优先的项目型 Agent 操作系统：用深度 Thinker 做项目决策，用 Flash 执行层并行推进，用 Observation Contract 保证反馈不失真，用全局沉淀层和项目记忆支持长期项目继续。
 
@@ -18,7 +18,7 @@ agent+++ 是一个本地优先的项目型 Agent 操作系统：用深度 Thinke
 
 ## Model Strategy / 模型策略
 
-> DeepSeek is the default model base: Flash is used for high-frequency execution and feedback handling, while Pro is used for deep project decisions, convergence checkpoints, and generational handoff. The architecture is designed for high token utilization: raw logs do not go directly into Thinker, child threads inherit decision skeletons instead of full context, and long projects continue through staged handoff rather than endless context compression.
+> DeepSeek is the default model base: Flash handles high-frequency execution and feedback processing, while Pro handles deep project decisions, convergence checkpoints, and generational handoff. The architecture is designed for high token utilization: raw logs do not go directly into Thinker, child threads inherit decision skeletons instead of full context, and long projects continue through staged handoff rather than endless context compression.
 
 DeepSeek 是默认模型底座：Flash 用于高频执行和反馈处理，Pro 用于深度项目决策、阶段收束和代际切换。agent+++ 的 token 利用策略不是简单压缩，而是让原始日志不直接进入 Thinker，让子线程继承决策骨架而不是完整上下文，让长期项目通过阶段交接继续推进。
 

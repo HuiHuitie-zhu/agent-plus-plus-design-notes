@@ -188,7 +188,7 @@ DeepSeek participates in the full agent loop without becoming an unbounded tool 
 
 ### 4. Long Context and Context Budgeting
 
-DeepSeek's long-context capability is useful for long projects, but agent+++ does not treat long context as a trash bin.
+DeepSeek's long-context capability is useful for long projects, but agent+++ does not treat long context as an unbounded container for raw material.
 
 Long context should carry:
 
@@ -240,7 +240,7 @@ It is cheaper and safer than injecting the full project history into every child
 
 ### 3. Project Memory Is Projected by Relevance
 
-Project Memory is not the full historical dump. It is projected from global precipitation:
+Project Memory is not a full historical dump. It is projected from global precipitation:
 
 ```text
 Global Precipitation Layer
