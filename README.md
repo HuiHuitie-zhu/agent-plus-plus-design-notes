@@ -11,6 +11,7 @@ Recommended reading order:
 2. Observation Contract: [中文](observation-contract.md) / [English](observation-contract.en.md)
 3. Global Precipitation Memory: [中文](global-precipitation-memory.md) / [English](global-precipitation-memory.en.md)
 4. Thinker Architecture: [中文](thinker-architecture.md) / [English](thinker-architecture.en.md)
+5. Why DeepSeek: [中文](why-deepseek.md) / [English](why-deepseek.en.md)
 
 Short positioning:
 

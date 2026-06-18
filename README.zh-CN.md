@@ -59,6 +59,10 @@ agent+++ 想做的是：
    Thinker Architecture：项目决策拆解大师、多线程调频、收束站和代际切换。
    英文版：[thinker-architecture.en.md](thinker-architecture.en.md)
 
+5. [why-deepseek.md](why-deepseek.md)  
+   为什么选择 DeepSeek：模型底座、Flash / Pro 分工和 token 高利用率。
+   英文版：[why-deepseek.en.md](why-deepseek.en.md)
+
 ---
 
 ## 四大核心模块

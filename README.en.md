@@ -59,6 +59,10 @@ Suggested reading order:
    Thinker Architecture: project decision decomposition, multi-thread tuning, convergence dock, and generational handoff.
    English: [thinker-architecture.en.md](thinker-architecture.en.md)
 
+5. [why-deepseek.md](why-deepseek.md)  
+   Why DeepSeek: model base, Flash / Pro role separation, and high token utilization.
+   English: [why-deepseek.en.md](why-deepseek.en.md)
+
 ---
 
 ## Four Core Modules
