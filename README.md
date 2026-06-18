@@ -7,10 +7,10 @@ This directory contains the public-facing design notes for agent+++.
 
 Recommended reading order:
 
-1. [agent-plus-plus-value-points.md](agent-plus-plus-value-points.md)
-2. [observation-contract.md](observation-contract.md)
-3. [global-precipitation-memory.md](global-precipitation-memory.md)
-4. [thinker-architecture.md](thinker-architecture.md)
+1. Overview: [中文](agent-plus-plus-value-points.md) / [English](agent-plus-plus-value-points.en.md)
+2. Observation Contract: [中文](observation-contract.md) / [English](observation-contract.en.md)
+3. Global Precipitation Memory: [中文](global-precipitation-memory.md) / [English](global-precipitation-memory.en.md)
+4. Thinker Architecture: [中文](thinker-architecture.md) / [English](thinker-architecture.en.md)
 
 Short positioning:
 

@@ -45,15 +45,19 @@ Suggested reading order:
 
 1. [agent-plus-plus-value-points.md](agent-plus-plus-value-points.md)  
    Project overview: four core modules, value proposition, and product positioning.
+   English: [agent-plus-plus-value-points.en.md](agent-plus-plus-value-points.en.md)
 
 2. [observation-contract.md](observation-contract.md)  
    Observation Contract: turning raw tool outputs into reasoning-ready, auditable, memory-worthy observation assets.
+   English: [observation-contract.en.md](observation-contract.en.md)
 
 3. [global-precipitation-memory.md](global-precipitation-memory.md)  
    Global Precipitation Memory: global staging, project memory projection, retention, hallucination, and forgetting lifecycle.
+   English: [global-precipitation-memory.en.md](global-precipitation-memory.en.md)
 
 4. [thinker-architecture.md](thinker-architecture.md)  
    Thinker Architecture: project decision decomposition, multi-thread tuning, convergence dock, and generational handoff.
+   English: [thinker-architecture.en.md](thinker-architecture.en.md)
 
 ---
 

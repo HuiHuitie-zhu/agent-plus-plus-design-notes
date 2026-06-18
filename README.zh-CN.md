@@ -45,15 +45,19 @@ agent+++ 想做的是：
 
 1. [agent-plus-plus-value-points.md](agent-plus-plus-value-points.md)  
    项目总览：四大核心模块、价值判断和产品定位。
+   英文版：[agent-plus-plus-value-points.en.md](agent-plus-plus-value-points.en.md)
 
 2. [observation-contract.md](observation-contract.md)  
    Observation Contract：把工具输出变成可推理、可审计、可沉淀的观察资产。
+   英文版：[observation-contract.en.md](observation-contract.en.md)
 
 3. [global-precipitation-memory.md](global-precipitation-memory.md)  
    Global Precipitation Memory：全局沉淀层、项目记忆投影、保留期、幻觉期和遗忘机制。
+   英文版：[global-precipitation-memory.en.md](global-precipitation-memory.en.md)
 
 4. [thinker-architecture.md](thinker-architecture.md)  
    Thinker Architecture：项目决策拆解大师、多线程调频、收束站和代际切换。
+   英文版：[thinker-architecture.en.md](thinker-architecture.en.md)
 
 ---
 
