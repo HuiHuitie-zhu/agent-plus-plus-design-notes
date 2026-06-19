@@ -9,10 +9,11 @@ agent+++ 是一个本地优先的项目型 Agent 操作系统：用深度 Thinke
 ## Reading Order / 阅读顺序
 
 1. Overview: [中文](agent-plus-plus-value-points.md) / [English](agent-plus-plus-value-points.en.md)
-2. Observation Contract: [中文](observation-contract.md) / [English](observation-contract.en.md)
-3. Global Precipitation Memory: [中文](global-precipitation-memory.md) / [English](global-precipitation-memory.en.md)
-4. Thinker Architecture: [中文](thinker-architecture.md) / [English](thinker-architecture.en.md)
-5. Why DeepSeek: [中文](why-deepseek.md) / [English](why-deepseek.en.md)
+2. Implementation Status & Roadmap: [中文](implementation-status-and-roadmap.md) / [English](implementation-status-and-roadmap.en.md)
+3. Observation Contract: [中文](observation-contract.md) / [English](observation-contract.en.md)
+4. Global Precipitation Memory: [中文](global-precipitation-memory.md) / [English](global-precipitation-memory.en.md)
+5. Thinker Architecture: [中文](thinker-architecture.md) / [English](thinker-architecture.en.md)
+6. Why DeepSeek: [中文](why-deepseek.md) / [English](why-deepseek.en.md)
 
 ---
 
