@@ -15,6 +15,13 @@ agent+++ 是一个本地优先的项目型 Agent 操作系统：用深度 Thinke
 5. Thinker Architecture: [中文](thinker-architecture.md) / [English](thinker-architecture.en.md)
 6. Why DeepSeek: [中文](why-deepseek.md) / [English](why-deepseek.en.md)
 
+### Practical Experience 实战篇
+
+7. Safety Control Planes: [中文](safety-control-planes.md) — 255 lines of deterministic safety for agent bash execution
+8. Eval Practice: [中文](eval-practice.md) — Signal-based scoring for personal-project evaluation
+9. Project Retrospective: [中文](project-retrospective.md) — Why I built and stopped agent+++ in 30 days
+10. Final Fantasy: [中文](final-fantasy.md) — Distributed multi-node Thinker collaboration network
+
 ---
 
 ## Model Strategy / 模型策略
