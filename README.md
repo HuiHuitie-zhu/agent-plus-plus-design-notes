@@ -33,6 +33,10 @@ English versions are concise companions to the Chinese originals, not always lin
 10. Project Retrospective: [中文](project-retrospective.md) — Why I built and stopped agent+++ in 30 days
 11. Final Fantasy: [中文](final-fantasy.md) — Distributed multi-node Thinker collaboration network
 
+### Companion AI Notes / 陪伴型 AI 札记
+
+12. DeepShen Notes: [中文为主，附 English abstracts](deepshen-notes/README.md) — design notes on external emotional state, expression guardrails, reply-first runtime, and layered memory for long-lived companion AI
+
 ---
 
 ## Architecture Map / 架构地图
